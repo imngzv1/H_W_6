@@ -1,0 +1,3 @@
+public enum WeaponType {
+    COLD_WEAPON,HUNTIMG_WEAPON,SPORTING_WEAPON
+}
